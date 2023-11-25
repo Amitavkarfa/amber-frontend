@@ -8,7 +8,7 @@
     font-family: 'Poppins', sans-serif;
 }
 body{
-    background: url("index1.jpg");
+    background: url("images/index1.jpg");
     background-size: cover;
     background-repeat: no-repeat;
     background-attachment: fixed;
@@ -50,9 +50,8 @@ body{
     padding-bottom: 15px;
     margin: 0 25px;
 }
-.link:hover, .active{
-    border-bottom: 2px solid #fff;
-}
+
+
 .nav-button .btn{
     width: 130px;
     height: 40px;
